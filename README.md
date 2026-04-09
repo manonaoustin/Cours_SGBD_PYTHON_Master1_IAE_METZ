@@ -2,7 +2,7 @@
 
 # BNP Paribas : Risk Data Aggregation Platform
 
-## Project context 
+## Project context :
 
 **Institution:** IAE Metz - Université de Lorraine  
 **Program:** Master 1 Finance Internationale  
@@ -12,7 +12,7 @@
 
 ---
 
-## Our Team
+## Our Team :
 
 | Name | Role |
 |------|------|
@@ -23,13 +23,13 @@
 
 ---
 
-## Our Research Question
+## Our Research Question :
 
 How can BNP Paribas build a real-time database to group risk data from 65 countries and follow BCBS 239 rules ?
 
 ---
 
-## Why BNP Paribas ?
+## Why BNP Paribas ? :
 
 - Largest bank in France, top 8 globally
 - G-SIB designated by the FSB since 2011
@@ -38,7 +38,7 @@ How can BNP Paribas build a real-time database to group risk data from 65 countr
 
 ---
 
-## Our Database Recommendation
+## Our Database Recommendation :
 
 We propose a three-layer database architecture :
 - PostgreSQL - golden source - accurate storage 
@@ -47,7 +47,7 @@ We propose a three-layer database architecture :
 
 ---
 
-## BCBS 239 Compliance Mapping
+## BCBS 239 Compliance Mapping :
 
 | Principle | Requirement | Our Solution |
 |-----------|-------------|--------------|
@@ -58,7 +58,7 @@ We propose a three-layer database architecture :
 
 ---
 
-## Repository Contents
+## Repository Contents :
 
 | File | Description |
 |------|-------------|
