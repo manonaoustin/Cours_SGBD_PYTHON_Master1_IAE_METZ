@@ -4,7 +4,7 @@
 
 ## Project context 
 
-**Institution:** IAE Metz — Université de Lorraine  
+**Institution:** IAE Metz - Université de Lorraine  
 **Program:** Master 1 Finance Internationale  
 **Course:** Financial Database Management  
 **Professor:** Sitraka Matthieu FORLER  
@@ -41,9 +41,9 @@ How can BNP Paribas build a real-time database to group risk data from 65 countr
 ## Our Database Recommendation
 
 We propose a three-layer database architecture :
-- PostgreSQL — golden source - accurate storage 
-- Snowflake — analytics - regulatory reports  
-- Redis — real-time - intraday data
+- PostgreSQL - golden source - accurate storage 
+- Snowflake - analytics - regulatory reports  
+- Redis - real-time - intraday data
 
 ---
 
