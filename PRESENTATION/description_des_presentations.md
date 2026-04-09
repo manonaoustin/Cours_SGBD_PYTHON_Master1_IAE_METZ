@@ -16,7 +16,7 @@
 
 | Slide | Title | Speaker |
 |-------|-------|---------|
-| 1 | Title Slide - Database Management - BNP Paribas | — |
+| 1 | Title Slide - Financial Database Management - BNP Paribas | — |
 | 2 | Summary | Rose |
 | 3 | Company Overview — BNP Paribas | Rose |
 | 4 | The Problem & Research Question | Rose |
