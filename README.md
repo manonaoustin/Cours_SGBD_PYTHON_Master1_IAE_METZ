@@ -64,4 +64,4 @@ We propose a three-layer database architecture :
 |------|-------------|
 | README.md | Project overview |
 | presentation.pptx | Full slide deck |
-| sample_data.csv | Sample trading positions |
+| sample_dataset.csv | Sample trading positions |
