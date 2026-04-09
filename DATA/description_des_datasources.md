@@ -1,6 +1,6 @@
-# Dataset Description — BNP Paribas Trading Positions
+# Dataset Description - BNP Paribas Trading Positions
 
-## What is this dataset ?
+## What is this dataset ? :
 
 This file contains fictional but realistic trading positions representing the type of data BNP Paribas manages every single day as a Global Systemically Important Bank (G-SIB).
 
@@ -20,7 +20,7 @@ It was created to illustrate our database architecture proposal and demonstrate 
 
 ---
 
-## Column Description
+## Column Description :
 
 | Column | Type | Description |
 |--------|------|-------------|
@@ -35,7 +35,7 @@ It was created to illustrate our database architecture proposal and demonstrate 
 
 ---
 
-## Asset Classes Covered
+## Asset Classes Covered :
 
 | Asset Class | Description |
 |-------------|-------------|
@@ -48,7 +48,7 @@ It was created to illustrate our database architecture proposal and demonstrate 
 
 ---
 
-## BCBS 239 Connection
+## BCBS 239 Connection :
 
 This dataset directly illustrates the following BCBS 239 principles :
 
@@ -61,10 +61,10 @@ This dataset directly illustrates the following BCBS 239 principles :
 
 ---
 
-## Important Note
+## Important Note :
 
 All data in this file is **fictional and created for educational purposes only**. It does not represent real BNP Paribas positions or exposures.
 
-Bibliography: 
+## Bibliography: 
 
 Kaggle: https://www.kaggle.com/datasets
