@@ -12,7 +12,7 @@
 
 ---
 
-## Slide Structure
+## Slide Structure :
 
 | Slide | Title | Speaker |
 |-------|-------|---------|
