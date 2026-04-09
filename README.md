@@ -1,6 +1,6 @@
 # Cours_SGBD_PYTHON_Master1_IAE_METZ
 
-# BNP Paribas — Risk Data Aggregation Platform
+# BNP Paribas : Risk Data Aggregation Platform
 
 ## Project context 
 
