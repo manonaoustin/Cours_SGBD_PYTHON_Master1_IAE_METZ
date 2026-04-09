@@ -6,7 +6,7 @@
 |--------|-------|
 | File name | Presentation AOUSTIN JIANG LECLERC RACHIDI.pdf |
 | Language | English |
-| Number of slides | 14 slides |
+| Number of slides | 13 slides |
 | Duration | 15 minutes |
 | Number of speakers | 4 |
 
@@ -28,8 +28,7 @@
 | 10 | Architecture Design | Zineb |
 | 11 | Why This Choice — BCBS 239 Mapping | Elodie |
 | 12 | Sample Dataset Illustration | Elodie |
-| 13 | GitHub Repository & Project Roadmap | Elodie |
-| 14 | Conclusion | Elodie |
+| 13 | Conclusion | Elodie |
 
 ---
 
