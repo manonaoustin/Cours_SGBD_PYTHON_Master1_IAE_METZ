@@ -6,7 +6,7 @@
 |--------|-------|
 | File name | Presentation AOUSTIN JIANG LECLERC RACHIDI.pdf |
 | Language | English |
-| Number of slides | 13 slides |
+| Number of slides | 12 slides |
 | Duration | 15 minutes |
 | Number of speakers | 4 |
 
@@ -23,12 +23,11 @@
 | 5 | Regulatory Context — BCBS 239 | Manon |
 | 6 | Regulatory Context — BCBS 239 | Manon |
 | 7 | What Data Does BNP Need to Manage ? | Manon |
-| 8 | Database Landscape — Options Considered | Zineb |
+| 8 | Technical Solution | Zineb |
 | 9 | Our Database Recommendation | Zineb |
-| 10 | Architecture Design | Zineb |
-| 11 | Why This Choice — BCBS 239 Mapping | Elodie |
-| 12 | Sample Dataset Illustration | Elodie |
-| 13 | Conclusion | Elodie |
+| 10 | Architecture Design | Elodie |
+| 11 | Sample Dataset Illustration | Elodie |
+| 12 | Conclusion | Elodie |
 
 ---
 
