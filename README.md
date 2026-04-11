@@ -65,3 +65,8 @@ We propose a three-layer database architecture :
 | README.md | Project overview |
 | presentation.pptx | Full slide deck |
 | sample_dataset.csv | Sample trading positions |
+
+
+
+## Contact us 
+- [Manon Aoustin](https://www.linkedin.com/in/manon-aoustin-158a26382/)
