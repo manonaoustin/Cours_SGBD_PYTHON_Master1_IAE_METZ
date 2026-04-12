@@ -70,4 +70,6 @@ We propose a three-layer database architecture :
 
 ## Contact us 
 - [Manon Aoustin](https://www.linkedin.com/in/manon-aoustin-158a26382/)
-- [Elodie Jiang] (https://www.linkedin.com/in/elodie-j-b326632b2)
+- [Elodie Jiang](https://www.linkedin.com/in/elodie-j-b326632b2)
+- [Rose Leclerc](https://www.linkedin.com/in/rose-leclerc-5525b330b)
+- [Zineb Rachidi](https://www.linkedin.com/in/zineb-rachidi-42b593304)
